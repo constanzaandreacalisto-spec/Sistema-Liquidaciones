@@ -1,0 +1,7 @@
+# templates/correo.txt
+Estimado/a {{nombre}},
+
+Adjunto encontrará su liquidación de sueldo correspondiente al período {{periodo}} emitida por {{empresa}}.
+
+Atentamente,
+Recursos Humanos
